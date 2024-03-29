@@ -1,5 +1,5 @@
 var userName;
-var fullName = 'Muhammad Obaid';
+var fullName = 'Muhammad wasi';
 var message = 'hello world';
 var myAge = '18';
 alert(message);
